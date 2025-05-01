@@ -1,0 +1,23 @@
+{
+  "name": "qa-cypress-cucumber",
+  "version": "1.0.0",
+  "description": "This is my Second Git Repository.\r <br>\r Author - Nabi Husain Ali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NabiHusainAli786/QA-Cypress-Cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NabiHusainAli786/QA-Cypress-Cucumber/issues"
+  },
+  "homepage": "https://github.com/NabiHusainAli786/QA-Cypress-Cucumber#readme",
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}
